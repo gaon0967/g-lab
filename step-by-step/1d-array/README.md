@@ -12,13 +12,13 @@
 
  번호  | 문제 제목                  | 난이도    | 설명 | 링크                            |
 |:-----:|:---------------------------|:---------:|:--------------------------------|:-----------------------------|
-| 10807 | 개수 세기                  | 브론즈 5  |배열을 입력받고 v를 찾는 문제| [문제 링크](https://www.acmicpc.net/problem/10807) |
-| 10871 | X보다 작은 수              | 브론즈 5  |배열을 입력받고 X보다 작은 수를 찾는 문제| [문제 링크](https://www.acmicpc.net/problem/10871) |
-| 10818 | 최소, 최대                 | 브론즈 3  |최솟값과 최댓값을 찾는 문제| [문제 링크](https://www.acmicpc.net/problem/10818) |
-| 2562  | 최댓값                     | 브론즈 3  |최댓값이 어디에 있는지 찾는 문제| [문제 링크](https://www.acmicpc.net/problem/2562) |
-| 10810 | 공 넣기                    | 브론즈 3  |배열의 값을 교환하는 문제| [문제 링크](https://www.acmicpc.net/problem/10810) |
-| 10813 | 공 바꾸기                  | 브론즈 2  |배열 내 두 원소를 바꾸는 문제| [문제 링크](https://www.acmicpc.net/problem/10813) |
-| 5597  | 과제 안 내신 분..?         | 브론즈 5  |과제 제출 기한이 지났습니다.| [문제 링크](https://www.acmicpc.net/problem/5597) |
-| 3052  | 나머지                     | 브론즈 2  |배열을 활용하여 서로 다른 값의 개수를 찾는 문제| [문제 링크](https://www.acmicpc.net/problem/3052) |
-| 10811 | 바구니 뒤집기              | 브론즈 2  |배열을 뒤집는 문제| [문제 링크](https://www.acmicpc.net/problem/10811) |
-| 1546  | 평균                      | 브론즈 1  |평균을 조작하는 문제| [문제 링크](https://www.acmicpc.net/problem/1546) |
+| 10807 | 개수 세기                  | 브론즈 5  |배열을 입력받고 v를 찾는 문제| [해답](g-lab/step-by-step/1d-array/Problem10807) |
+| 10871 | X보다 작은 수              | 브론즈 5  |배열을 입력받고 X보다 작은 수를 찾는 문제| [해답](https://www.acmicpc.net/problem/10871) |
+| 10818 | 최소, 최대                 | 브론즈 3  |최솟값과 최댓값을 찾는 문제| [해답](https://www.acmicpc.net/problem/10818) |
+| 2562  | 최댓값                     | 브론즈 3  |최댓값이 어디에 있는지 찾는 문제| [해답](https://www.acmicpc.net/problem/2562) |
+| 10810 | 공 넣기                    | 브론즈 3  |배열의 값을 교환하는 문제| [해답](https://www.acmicpc.net/problem/10810) |
+| 10813 | 공 바꾸기                  | 브론즈 2  |배열 내 두 원소를 바꾸는 문제| [해답](https://www.acmicpc.net/problem/10813) |
+| 5597  | 과제 안 내신 분..?         | 브론즈 5  |과제 제출 기한이 지났습니다.| [해답](https://www.acmicpc.net/problem/5597) |
+| 3052  | 나머지                     | 브론즈 2  |배열을 활용하여 서로 다른 값의 개수를 찾는 문제| [해답](https://www.acmicpc.net/problem/3052) |
+| 10811 | 바구니 뒤집기              | 브론즈 2  |배열을 뒤집는 문제| [해답](https://www.acmicpc.net/problem/10811) |
+| 1546  | 평균                      | 브론즈 1  |평균을 조작하는 문제| [해답](https://www.acmicpc.net/problem/1546) |
