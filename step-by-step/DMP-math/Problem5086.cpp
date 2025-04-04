@@ -16,19 +16,14 @@ int main() {
 	} // 벡터에 숫자 저장
 
 	for (int i = 0; i < v1.size(); i++) {
-		for (int j = 0; j < v2.size(); j++) {
-			if (v2[i] % v1[i] == 0) {
-				cout << "factor" << endl;
-				break;
-			}
-			else if (v1[i] % v2[i] == 0) {
-				cout << "multiple" << endl;
-				break;
-			}
-			else {
-				cout << "neither" << endl;
-				break;
-			}
+		if (v1[i] % v2[i] == 0) {
+			cout << "multiple" << endl;
+		}
+		else if (v2[i] % v1[i] == 0) {
+			cout << "factor" << endl;
+		}
+		else {
+			cout << "neither" << endl;
 		}
 	}
 
