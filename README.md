@@ -10,4 +10,4 @@
 | 💡   | 심화 1         | 25083, 3003, 2444, 10988, 1157                                           | [심화 1](./step-by-step/Advanced-1/README.md)                |
 | 🧩   | 2차원 배열     | 2738, 2566, 10798, 2563                                                  | [2차원 배열](./step-by-step/2d-array/README.md)              |
 | ⚙️   | 일반 수학 1    | 2745, 11005, 2720, 2903, 2292                                            | [일반 수학 1](./step-by-step/basic-math-1/README.md)         |
-| 🧮   | 약수,배수와 소수| 5086                                                                   | [약수,배수와 소수](./step-by-step/DMP-math/README.md)         |
+| 🧮   | 약수,배수와 소수| 5086, 2501, 9506                                                        | [약수,배수와 소수](./step-by-step/DMP-math/README.md)         |
