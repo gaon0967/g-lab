@@ -10,7 +10,7 @@ int main() {
 
 	while (true) {
 		cin >> num1 >> num2;
-		if (num1 == 0 & num2 == 0) break;
+		if (num1 == 0 && num2 == 0) break;
 		v1.push_back(num1);
 		v2.push_back(num2);
 	} // 벡터에 숫자 저장
