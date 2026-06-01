@@ -1,4 +1,4 @@
-// 백준 2903번 일반 수학 1-중앙 이동 알고리즘
+// 백준 2292번 일반 수학 1-벌집
 
 #include <iostream>
 #include <cmath>
